@@ -27,12 +27,12 @@
     },
     "autoload": {
       "psr-4": {
-            "sroutier\\menu-builder\\": "src"
+            "Sroutier\\MenuBuilder\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "sroutier\\menu-builder\\Test\\": "tests"
+            "Sroutier\\MenuBuilder\\Test\\": "tests"
         }
     },
     "scripts": {
